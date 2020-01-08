@@ -1,6 +1,6 @@
 # Version 1.0 template-transformer-simple 
 
-FROM base-image
+FROM FROM agpipeline/rgb-plot-base-image:1.1
 LABEL maintainer=""
 
 COPY requirements.txt packages.txt /home/extractor/
