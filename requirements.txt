@@ -1,0 +1,17 @@
+opencv-python
+matplotlib
+h5py
+keras-applications
+keras-preprocessing
+numpy
+pyyaml
+scipy
+six
+tensorflow
+keras
+scikit-image
+scikit-learn
+fire
+geopy
+pillow
+imageio
